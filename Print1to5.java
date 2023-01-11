@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class Print1to5 {
 
